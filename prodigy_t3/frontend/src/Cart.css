@@ -1,0 +1,33 @@
+.cart-item {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 16px;
+  border-radius: 10px;
+  background: #fdfdfd;
+}
+
+.cart-actions {
+  margin-top: 12px;
+}
+
+.cart-actions button {
+  margin-right: 8px;
+  padding: 8px 14px;
+  background-color: #007bff;
+  color: white;
+}
+
+.remove-btn {
+  background-color: #e74c3c;
+}
+
+.place-order-btn {
+  background-color: #27ae60;
+  color: white;
+  padding: 12px 24px;
+  font-weight: bold;
+  margin-top: 24px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
